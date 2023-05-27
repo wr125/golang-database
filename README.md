@@ -1,0 +1,1 @@
+Golang database (json) built from scratch which can be used in any kind of application locally. Just run go run main.go, and it will create a directory list of users. You can undo the delete function at bottom of page to remove single entries or delete all users. 
